@@ -1,6 +1,10 @@
 body{
     background-image: url("https://i.pinimg.com/originals/91/e1/36/91e136e1673e4cb50bfd7ba82721bd3d.jpg");
-    
+    font-family: 'Bebas';
+}
+
+image{
+    background-color: transparent;
 }
 
 h1{
@@ -9,14 +13,25 @@ h1{
     text-align: center;
 }
 
+.buttonBoxes{
+    display: grid;
+    grid-template-columns: repeat(2, auto) ;
+    justify-content: center;
+    padding: 180px;
+    
+}
+
 button{
-    display: inline-block;
+    
     padding: 2rem;
     margin: 0.5rem;
     width: 200px;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     border-radius: 15px;
     background-color: transparent;
+    text-align: center;
+    font-family: 'Bebas';
+    font-size: 24px;
 }    
 
 .button:hover{
@@ -24,7 +39,7 @@ button{
 }
 
 .button:active{
-    background-color: #3e8e41;
+    background-color: transparent;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
