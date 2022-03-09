@@ -1,23 +1,31 @@
 body{
     background-image: url("https://i.pinimg.com/originals/91/e1/36/91e136e1673e4cb50bfd7ba82721bd3d.jpg");
-    font-family: 'Bebas';
+    font-family: 'Press Start 2P', cursive;
 }
+
+
 
 image{
     background-color: transparent;
 }
 
 h1{
-    font-family: "Bebas";
+    font-family: 'Press Start 2P', cursive;
     font-size: 35px;
     text-align: center;
+}
+
+.promptBox{
+    text-align: center;
+    font-size: 55PX;
+
 }
 
 .buttonBoxes{
     display: grid;
     grid-template-columns: repeat(2, auto) ;
     justify-content: center;
-    padding: 180px;
+    padding: 85px;
     
 }
 
@@ -30,7 +38,7 @@ button{
     border-radius: 15px;
     background-color: transparent;
     text-align: center;
-    font-family: 'Bebas';
+    font-family: 'Press Start 2P', cursive;
     font-size: 24px;
 }    
 
