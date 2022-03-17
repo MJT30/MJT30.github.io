@@ -22,13 +22,24 @@ h1{
 
 }
 
+#start{
+   justify-content: center;
+   border-radius: 200px;
+}
+
+
+
+
 .buttonBoxes{
     display: grid;
     grid-template-columns: repeat(2, auto) ;
     justify-content: center;
-    padding: 85px;
+    padding: 60px;
     
 }
+
+
+
 
 button{
     
@@ -53,5 +64,4 @@ button{
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
-
 
