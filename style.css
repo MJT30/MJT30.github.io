@@ -17,10 +17,15 @@ h1{
 
 .promptBox{
     text-align: center;
-    font-size: 45PX;
+    font-size: 35PX;
     color: #1F51FF;
 
 }
+
+.answerBox{
+    text-align: center;
+}
+
 
 #start{
    justify-content: center;
@@ -64,4 +69,3 @@ button{
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
-
