@@ -14,6 +14,15 @@ let questionNumber = 0
 // const wrongAnswer = false
 // const answerButton = document.getElementsByClassName('answerButton')
 
+
+
+function playerPoints() {
+    points % 2 == 10
+    points++
+    document.querySelector('.pointCounter').innerHTML = `Points :${points}`
+    console.log('please work');
+}
+
     
 //<------Questions------>//
 
@@ -117,6 +126,7 @@ function clickMe(i) {
     console.log(questions);
     questionNumber ++
     nextQuestion()
+    playerPoints()
 }
 //<------Buttons------>//
 
