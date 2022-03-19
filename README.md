@@ -1,11 +1,29 @@
 # Zelda-Trivia
 
-I am creating a Zelda trivia game. I want it to be playable by casual and hardcore fans alike. 
-I will be using mt game design knowledge to help me with the game. The gameplay loop will be simple. No need to make it complicated. It will be sort of like who wants to be a millionaire. In terms of setup. 10 - 15 questions max. You still aren't that great with JS so be kind to yourself and allow yourself to learn and make mistakes during the process. 
+# Technologies used
+    Macbook Air
 
-Prompts need to come up when you get a right/wrong answer. 
+# User stores
+    The main user of the game is myelf. I wanted to make a game based on The Legend of Zelda. Although not everything I wanted implemented was put into the game, I'm still quite satisifed with what I do have. I wanted to make thise game because Zelda is one of my favorite video games series, And I also wanted it to be fun for those who do not know much of the series.
 
-You will gain points for a right answer, but you will lose points for an inncorrect answer. 
-Point system. User will start with "X" amount of points. I'm still working on this part. 
 
-Questions need to change every round. This can be acomplished with a function. 
+# Wireframes
+
+
+
+
+
+
+
+
+# App Screenshot
+
+
+
+
+# Unsolved problems
+    What was an orginal goal of mine was to use a point counter system. But that did not plan out as I had hoped. Also, selecting the right/wrong answer did not come to pass as of the games current version. I'll have to turn that into a stretch goal. But my biggest hurdle by far was the JS. Getting the questions to render on screen and getting the others to render when a previous question is answered. 
+
+
+
+
