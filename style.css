@@ -1,6 +1,8 @@
 body{
     background-image: url("https://i.pinimg.com/originals/91/e1/36/91e136e1673e4cb50bfd7ba82721bd3d.jpg");
     font-family: 'Press Start 2P', cursive;
+    /* cursor: url("navi.gif"), auto; */
+        
 }
 
 
@@ -18,7 +20,7 @@ h1{
 .promptBox{
     text-align: center;
     font-size: 35PX;
-    color: #1F51FF;
+    color: black;
 
 }
 
