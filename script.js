@@ -14,11 +14,10 @@ let points = 0
 // const wrongAnswer = false
 // const answerButton = document.getElementsByClassName('answerButton')
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> 0456f1f1d4127f452f6da92dafc3d200376363e9
+
+
 function playerPoints() {
     points % 2 == 10
     points++
