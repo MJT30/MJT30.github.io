@@ -31,8 +31,7 @@ And I also wanted it to be fun for those who do not know much of the series.
 
 
 # Unsolved problems
- What was an orginal goal of mine was to use a point counter system. But that did not plan out as I had hoped. 
- Also, selecting the right/wrong answer did not come to pass as of the games current version. 
+ Selecting the right/wrong answer did not come to pass as of the games current version. 
  I'll have to turn that into a stretch goal. But my biggest hurdle by far was the JS. 
  Getting the questions to render on screen and getting the others to render when a previous question is answered. 
  
